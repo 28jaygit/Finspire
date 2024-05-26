@@ -10,7 +10,7 @@ os.environ["TAVILY_API_KEY"] =st.secrets["TAVILY"]
 page_element = """
 <style>
 [data-testid="stAppViewContainer"]{
-background-image: url("https://wallpapers.com/images/hd/purple-gradient-background-2400-x-2000-84i56bd29161ta0o.jpg");
+background-image: url("https://th.bing.com/th/id/R.7c186a5dc1c6eba5056201dc567a67e4?rik=zHFUXKGVeogkqw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2ff%2f1%2fb%2f160942.jpg&ehk=NXiHPZX6NGHGfBit5uEF%2fPu6HMV8VV%2b8llo7S5k41Cs%3d&risl=&pid=ImgRaw&r=0");
 background-size: cover;
 }
 [data-testid="stHeader"]{
