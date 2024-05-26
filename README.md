@@ -23,14 +23,6 @@
 - **Comprehensive Analysis**: In-depth examination and evaluation of financial data, providing holistic insights for informed decision-making and strategy.
 - **News Summarization**: Condensing complex news stories into concise summaries, offering key highlights and insights for quick comprehension.
 
-## ORKES CONDUCTOR WORKFLOW
-
-![FinSpire](https://github.com/RookieTechies-FinSpire/.github/assets/122113456/f2dfa32c-b77e-4e41-8d2b-1bacb64b8735)
-
-## XX NETWORK
-
-![WhatsApp Image 2024-03-17 at 12 14 07 PM](https://github.com/RookieTechies-FinSpire/.github/assets/122113456/97b410b8-5c23-46c7-9ed5-ea999e926117)
-
 ## WEBSITE
 
 ![ROOKIETECHIES FINTECH (2)](https://github.com/RookieTechies-FinSpire/.github/assets/122113456/3f89d858-8fc4-41f5-a25b-b9dcb22c193c)
