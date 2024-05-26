@@ -23,14 +23,3 @@
 - **Comprehensive Analysis**: In-depth examination and evaluation of financial data, providing holistic insights for informed decision-making and strategy.
 - **News Summarization**: Condensing complex news stories into concise summaries, offering key highlights and insights for quick comprehension.
 
-## WEBSITE
-
-![ROOKIETECHIES FINTECH (2)](https://github.com/RookieTechies-FinSpire/.github/assets/122113456/3f89d858-8fc4-41f5-a25b-b9dcb22c193c)
-
-**Link**: [https://finspire.vercel.app/](https://finspire.vercel.app/)
-
-## APPLICATION
-
-![ROOKIETECHIES FINTECH (1)](https://github.com/RookieTechies-FinSpire/.github/assets/122113456/850a3d39-1d50-40e3-b0ae-eb0df54056ae)
-
-**Link**: [https://github.com/RookieTechies-FinSpire/Finspire/releases/download/beta-1.0/app-release.apk](https://github.com/RookieTechies-FinSpire/Finspire/releases/download/beta-1.0/app-release.apk)
