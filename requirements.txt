@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain_core
+streamlit
+langchain_openai
+tavily-python
+langchainhub
+langchain-google-genai
+pillow
